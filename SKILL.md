@@ -47,7 +47,7 @@ everything from there — no separate clone or download is needed.
    If that fails, install it for the user's platform:
    - **Windows:** download and run the installer from https://ollama.com/download/OllamaSetup.exe
    - **macOS:** download and run https://ollama.com/download/Ollama-darwin.zip
-   - **Linux:** download the installer from https://ollama.com/download/linux and run it, or use your package manager (e.g. `sudo apt install ollama` on Debian/Ubuntu).
+   - **Linux:** download the installer from https://ollama.com/download/linux and run it, or install via your package manager.
    Then start the Ollama service (on Windows/macOS the installer launches it; on
    Linux run `ollama serve` in the background).
 
